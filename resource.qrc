@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/pix">
+        <file>pix/AND.png</file>
+        <file>pix/NAND.png</file>
+        <file>pix/NOR.png</file>
+        <file>pix/NOT.png</file>
+        <file>pix/OR.png</file>
+        <file>pix/WIRE.png</file>
+        <file>pix/XNOR.png</file>
+        <file>pix/XOR.png</file>
+    </qresource>
+</RCC>

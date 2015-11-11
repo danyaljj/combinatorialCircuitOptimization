@@ -1,0 +1,29 @@
+gui_1_6:   
+
+gui_1_5:   wires added
+
+gui_1_4:   output selecor 
+
+
+gui_1_3:   2010.May.10:
+	   referesh method bug fixed ! 
+	   + clear screen ! 
+
+
+gui_1_2:   basic wire connections implemented! 
+
+gui_1_1:   connection_number bug fixed ! 
+
+
+gui_1_1:   1st version is released! 
+
+
+2010:4:28: 
+	   parser is tested.
+	   gate_viewer: implemented.	   
+
+
+2010:4:27: general design:
+	   parser is added.
+	   digital_gate class : implemented.
+	   
