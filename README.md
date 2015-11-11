@@ -2,7 +2,7 @@
 
 The suit contains
 - [Optimizer 1](optimizer1/): an optimization code in MATLAB. 
-- [Optimizer 2](optimizer2/): another an optimization code in MATLAB! Essentially the same as above, but implemented by another person. Which one is better, I don't know! 
+- [Optimizer 2](optimizer2/): another optimization code in MATLAB! Essentially the same as above, but implemented by another person. Which one is better, I don't know! 
 - [Circuit Visualizer] (visualizer/): a tool to visualize the output of the above optimization codes. 
 
 ## Demo 
