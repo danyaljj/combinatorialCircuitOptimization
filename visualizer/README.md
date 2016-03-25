@@ -17,7 +17,7 @@ The possible values that gate_type can take are the followings:
 0:WIRE 1:NOT 2:AND 3:OR 4:NAND 5:NOR 6:XOR 7:XNOR
 ```
 
-## Pre-compile files 
+## Pre-compiled files 
 If you problems in compiling this code, use the binary version [here](http://web.engr.illinois.edu/~khashab2/files/2010_GeneticCombinationalCircuits/gui_1_7_release.rar
 ) (compiled under Windows Vista). 
 
