@@ -17,6 +17,9 @@ The possible values that gate_type can take are the followings:
 0:WIRE 1:NOT 2:AND 3:OR 4:NAND 5:NOR 6:XOR 7:XNOR
 ```
 
+## Compiling 
+The code is written via [Qt](http://www.qt.io/). There might be easier ways to compile the project without downloading the whole Qt (e.g. see [this](http://www.aboutlinux.info/2006/01/creating-and-compiling-qt-projects-on.html)). 
+
 ## Pre-compiled files 
 If you problems in compiling this code, use the binary version [here](http://web.engr.illinois.edu/~khashab2/files/2010_GeneticCombinationalCircuits/gui_1_7_release.rar
 ) (compiled under Windows Vista). 
